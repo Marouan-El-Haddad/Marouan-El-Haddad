@@ -1,6 +1,27 @@
 ### Hi there friends 👋
 
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Marouan-El-Haddad&theme=transparent" />
+
+### 📈 My Stats 
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Marouan-El-Haddad&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+
+### 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://Marouan-El-Haddad.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://Marouan-El-Haddad.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://Marouan-El-Haddad.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/marouan-el-haddad/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+</div>
 
 <!--
 **Marouan-El-Haddad/Marouan-El-Haddad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
