@@ -2,6 +2,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marouan+El+Haddad!;" />
 </h1>
 
+<h3 align="center">A passionate software developer from Denmark 🇩🇰</h3>
+
+<br/>
+
+<div align="center">
+
+🌱 Currently mastering **Spring 6 & Spring Boot 3**, diving deep into **Spring Framework Core, Spring Security, REST API, and more**.
+
+💬 Want to chat about **Java, Scala, React, PostgreSQL, or anything else under the coding sun**? Don't hesitate to [ask](https://github.com/Marouan-El-Haddad/Marouan-El-Haddad/issues). I'm always up for a good conversation!
+
+⚡ Fun fact: Did you know that the first computer bug was an actual bug? A moth got trapped in a relay of the Mark II computer in 1947. Talk about a "debugging" session!
+
+</div>
+
+
 ### 📈 My Stats 
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Marouan-El-Haddad&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
@@ -10,9 +25,6 @@
 <div id="badges">
     <a href="https://www.linkedin.com/in/marouan-el-haddad/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=creator.gl01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 </div>
 
