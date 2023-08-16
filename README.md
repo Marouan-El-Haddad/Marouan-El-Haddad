@@ -14,9 +14,7 @@
 
 ⚡ Fun fact: The term "debugging" originated from a real moth found in a computer relay in 1947.
 
-    <a href="https://www.linkedin.com/in/marouan-el-haddad/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 </div>
 
