@@ -23,6 +23,18 @@
   </a>
 </div>
 
+ <hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,scala,python,javascript,typescript,html,css,react,express,nodejs,postgresql,mysql,linux,windows,docker,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,springboot,springsecurity" />
+</div>
+
+
+<br/>
+<hr/>
 
 <h2 align="center">📈 My Stats 📈</h2>
 <br>
