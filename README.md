@@ -4,14 +4,6 @@
 ### 📈 My Stats 
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Marouan-El-Haddad&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
-### 🐍 Contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://Marouan-El-Haddad.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://Marouan-El-Haddad.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://Marouan-El-Haddad.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-</picture>
-
 ### 🔗 Social info
 
 <div id="badges">
