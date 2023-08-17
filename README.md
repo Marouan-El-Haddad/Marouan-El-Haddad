@@ -1,6 +1,8 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&color=36BCF7&background=00000000&lines=Hi+There!+👋;I'm+Marouan+El+Haddad!;Software+Engineer+from+Denmark+🇩🇰;Diving+into+Java,+Scala,+React,+and+more;Always+learning,+always+developing" />
-</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=440&height=45&duration=3000&color=f75c7e&background=00000000&lines=Hi+There!+👋;I'm+Marouan+El+Haddad!;Software+Engineer+🇩🇰;Java,+Scala,+React+Enthusiast;Always+Learning+and+Developing&pause=1000" />
+  </a>
+</p>
 
 
 <h3 align="center">A passionate software developer from Denmark 🇩🇰</h3>
