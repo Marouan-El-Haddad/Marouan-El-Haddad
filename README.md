@@ -23,33 +23,31 @@
   </a>
 </div>
 
- <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <!-- Programming Languages -->
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java"/>
-    <img src="https://skillicons.dev/icons?i=scala" alt="Scala" title="Scala"/>
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python"/>
-    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript"/>
-    <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript"/><br>
-    
-    <!-- Frameworks/Libraries -->
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js"/>
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express"/>
-    <img src="https://skillicons.dev/icons?i=react" alt="React" title="React"/>
-    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring"/><br>
-    
-    <!-- Databases -->
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL"/>
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL"/><br>
-    
-    <!-- Operating Systems and Tools -->
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux"/>
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub"/>
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker"/>
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git"/>
-</div>
+## ⚒️ Languages-Frameworks-Tools ⚒️
+
+### Programming Languages
+![Java](https://skillicons.dev/icons?i=java)
+![Scala](https://skillicons.dev/icons?i=scala)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=javascript)
+![TypeScript](https://skillicons.dev/icons?i=typescript)
+
+### Frameworks/Libraries
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![React](https://skillicons.dev/icons?i=react)
+![Spring](https://skillicons.dev/icons?i=spring)
+
+### Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+### Operating Systems and Tools
+![Linux](https://skillicons.dev/icons?i=linux)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+
 
 
 
