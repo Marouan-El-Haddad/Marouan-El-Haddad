@@ -13,8 +13,6 @@
 
 🌱 Currently mastering **Spring 6 & Spring Boot 3**
 
-⚡ Fun fact: The term "debugging" originated from a real moth found in a computer relay in 1947
-
 </div>
 
 <div align="center"> 
