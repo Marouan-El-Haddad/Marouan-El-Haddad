@@ -25,11 +25,16 @@
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
+<div align="center">
+
 #### Languages & Frameworks
-![Java](https://skillicons.dev/icons?i=java) ![Scala](https://skillicons.dev/icons?i=scala) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring)
+![Java](https://skillicons.dev/icons?i=java) ![Scala](https://skillicons.dev/icons?i=scala) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript)<br>
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring)
 
 #### Tools & Databases
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Docker](https://skillicons.dev/icons?i=docker)
+
+</div>
 
 
 <br/>
