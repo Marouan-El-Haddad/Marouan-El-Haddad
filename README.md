@@ -25,20 +25,11 @@
 
 ## ⚒️ Languages-Frameworks-Tools ⚒️
 
-#### Programming Languages
-![Java](https://skillicons.dev/icons?i=java) ![Scala](https://skillicons.dev/icons?i=scala) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript)
+#### Languages & Frameworks
+![Java](https://skillicons.dev/icons?i=java) ![Scala](https://skillicons.dev/icons?i=scala) ![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring)
 
-#### Frameworks/Libraries
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![React](https://skillicons.dev/icons?i=react) ![Spring](https://skillicons.dev/icons?i=spring)
-
-#### Databases
-![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)
-
-#### Operating Systems and Tools
-![Linux](https://skillicons.dev/icons?i=linux) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git)
-
-
-
+#### Tools & Databases
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Linux](https://skillicons.dev/icons?i=linux) ![GitHub](https://skillicons.dev/icons?i=github) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git)
 
 <br/>
 <hr/>
