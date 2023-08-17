@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Marouan+El+Haddad!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Montserrat&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&color=36BCF7&background=00000000&lines=Hi+There!+👋;I'm+Marouan+El+Haddad!;Software+Engineer+from+Denmark+🇩🇰;Diving+into+Java,+Scala,+React,+and+more;Always+learning,+always+developing" />
 </h1>
+
 
 <h3 align="center">A passionate software developer from Denmark 🇩🇰</h3>
 
