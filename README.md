@@ -40,7 +40,7 @@
 </div>
 
 <br/>
-<hr/>
+
 
 <h2 align="center">📈 My Stats 📈</h2>
 <br>
@@ -48,9 +48,7 @@
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Marouan-El-Haddad&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 </div>
 
-<br/><br/>
-
-<hr/>
+<br/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=440&height=45&duration=3000&color=f75c7e&background=00000000&lines=Thanks+for+visiting!+✌️;Let's+connect+on+LinkedIn!;Always+open+to+networking!&pause=1000" />
