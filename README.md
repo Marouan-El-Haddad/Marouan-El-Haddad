@@ -28,9 +28,19 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,scala,python,javascript,typescript,html,css,react,express,nodejs,postgresql,mysql,linux,windows,docker,git,github" /><br>
-    <img src="https://skillicons.dev/icons?i=spring,springboot,springsecurity" />
+    <!-- Programming Languages -->
+    <img src="https://skillicons.dev/icons?i=java,scala,python,javascript,typescript" alt="Programming Languages: Java, Scala, Python, JavaScript, TypeScript" title="Programming Languages"/><br>
+    
+    <!-- Frameworks/Libraries -->
+    <img src="https://skillicons.dev/icons?i=nodejs,express,react,spring" alt="Frameworks/Libraries: Node.js, Express, React, Spring" title="Frameworks/Libraries"/><br>
+    
+    <!-- Databases -->
+    <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases: PostgreSQL, MySQL" title="Databases"/><br>
+    
+    <!-- Operating Systems and Tools -->
+    <img src="https://skillicons.dev/icons?i=linux,github,docker,git" alt="Operating Systems and Tools: Linux, GitHub, Docker, Git" title="Operating Systems and Tools"/>
 </div>
+
 
 
 <br/>
