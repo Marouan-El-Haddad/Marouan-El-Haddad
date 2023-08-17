@@ -25,16 +25,17 @@
 
 <div align="center">
 
-## ⚒️ Languages-Frameworks-Tools ⚒️
+## ⚒️ Tech Stack ⚒️
 
 #### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=java" alt="Java" /> <img src="https://skillicons.dev/icons?i=scala" alt="Scala" /> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" /> <img src="https://skillicons.dev/icons?i=react" alt="React" /> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+<img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=scala" alt="Scala" title="Scala" /> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /> <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />
 
 #### Tools & Databases
-<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
 
 </div>
+
 
 
 
