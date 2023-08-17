@@ -55,7 +55,8 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+network+:)">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&center=true&vCenter=true&width=440&height=45&duration=3000&color=f75c7e&background=00000000&lines=Thanks+for+visiting!+✌️;Let's+connect+on+LinkedIn!;Always+open+to+networking!&pause=1000" />
 </h3>
+
 
 <br/>
