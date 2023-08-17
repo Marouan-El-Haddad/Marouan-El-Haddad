@@ -33,7 +33,7 @@
 #### Languages & Frameworks
 
 <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" /> <img src="https://skillicons.dev/icons?i=scala" alt="Scala" title="Scala" /> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" /> <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" title="TypeScript" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express" /> <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" /> <img src="https://skillicons.dev/icons?i=expressjs" alt="Express" title="Express" /> <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" /> <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring" />
 
 #### Tools & Databases
 
