@@ -23,9 +23,10 @@
   </a>
 </div>
 
-## ⚒️ Languages-Frameworks-Tools ⚒️
 
 <div align="center">
+
+## ⚒️ Languages-Frameworks-Tools ⚒️
 
 #### Languages & Frameworks
 ![Java](https://skillicons.dev/icons?i=java) ![Scala](https://skillicons.dev/icons?i=scala) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript)<br>
