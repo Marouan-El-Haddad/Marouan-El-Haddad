@@ -5,7 +5,7 @@
 </p>
 
 
-<h3 align="center">A Software Engineer from Denmark 🇩🇰</h3>
+<h3 align="center">A Software Developer from Denmark 🇩🇰</h3>
 
 <br/>
 
