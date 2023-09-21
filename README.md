@@ -11,7 +11,7 @@
 
 <div align="center">
 
-🌱 Currently mastering **Spring 6 & Spring Boot 3**
+🌱 Currently mastering **Next.js 13**
 
 </div>
 
