@@ -38,7 +38,7 @@
 <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" /> <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
 
 </div>
-
+<!--
 <br/>
 
 
@@ -56,3 +56,4 @@
 
 
 <br/>
+-->
