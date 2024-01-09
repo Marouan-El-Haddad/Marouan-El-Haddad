@@ -11,7 +11,7 @@
 
 <div align="center">
 
-🌱 Currently mastering **Next.js 13**
+🌱 Currently mastering **Cats Effect**
 
 </div>
 
