@@ -11,8 +11,6 @@
 
 <div align="center">
 
-🌱 Currently mastering **Cats Effect**
-
 </div>
 
 <div align="center"> 
