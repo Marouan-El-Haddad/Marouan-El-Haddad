@@ -1,26 +1,28 @@
 # Hello.
 
-Backend developer based in Copenhagen. I work primarily with Java and the Spring ecosystem, with hands-on experience across API development, automated testing, CI/CD, and Linux-based workflows.
+Backend developer based in Copenhagen. I work primarily with Java and the Spring ecosystem, with experience across backend services, APIs, automated testing, CI/CD, and Linux-based development workflows.
 
-### What I work with
+## What I work with
 
-**Core:** Java · Groovy · Spring Boot · PostgreSQL · JUnit · Maven · Gradle
+**Backend:** Java · Spring Boot · PostgreSQL · SQL · REST APIs · Gradle · Maven
 
-**Testing:** Spock · Geb · Mockito · Cucumber · WireMock · Selenium/WebDriver
+**Testing:** Groovy · Spock · JUnit · Mockito · WireMock · Geb · Cucumber · Selenium/WebDriver
 
 **Tooling:** Jenkins · Docker · Git · Linux · Bash
 
-**Also used:** JavaScript · TypeScript · Vue
+**Also used:** TypeScript · Vue
 
-### Focus areas
+## Focus areas
 
-- Backend development and API design
-- Test automation and testing strategy
-- CI/CD and reliable delivery
-- Code quality and maintainability
+- Backend development with Java and Spring Boot
+- APIs, services, and maintainable system boundaries
+- Automated testing and useful regression feedback
+- CI/CD-adjacent delivery work
+- Code quality, clarity, and maintainability
 
-### Principles
+## Principles
 
-- Privacy-conscious by default
 - Correctness and clarity over cleverness
-- Testing is part of engineering, not an afterthought
+- Tests should make behaviour easier to understand
+- Prefer simple designs that are easy to change
+- Privacy-conscious software by default
