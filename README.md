@@ -4,7 +4,7 @@ Backend developer based in Copenhagen. I work primarily with Java and the Spring
 
 ## What I work with
 
-**Backend:** Java · Spring Boot · PostgreSQL · SQL · REST APIs · Gradle · Maven
+**Backend:** Java · Spring Boot · PostgreSQL · SQL · REST APIs · Gradle
 
 **Testing:** Groovy · Spock · JUnit · Mockito · WireMock · Geb · Cucumber · Selenium/WebDriver
 
@@ -17,7 +17,7 @@ Backend developer based in Copenhagen. I work primarily with Java and the Spring
 - Backend development with Java and Spring Boot
 - APIs, services, and maintainable system boundaries
 - Automated testing and useful regression feedback
-- CI/CD-adjacent delivery work
+- CI/CD and development workflows
 - Code quality, clarity, and maintainability
 
 ## Principles
