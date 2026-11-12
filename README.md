@@ -1,28 +1,7 @@
-# Hello.
+# Marouan El Haddad
 
-Backend developer based in Copenhagen. I work primarily with Java and the Spring ecosystem, with experience across backend services, APIs, automated testing, CI/CD, and Linux-based development workflows.
+Backend developer in Copenhagen. I work on Spring Boot, mostly in Groovy, on reporting systems in the Danish tax domain, and I write the tests that go with it, in Spock for the most part.
 
-## What I work with
+The code I write at work is in private repositories, so none of it is here. The closest thing to a code sample is my article [Good Tests Are Hard to Vary](https://www.marouan.dk/writing/hard-to-vary-tests/): two versions of the same Spock specification, and an argument about which details a test should be strict about.
 
-**Backend:** Java · Spring Boot · PostgreSQL · SQL · REST APIs · Gradle
-
-**Testing:** Groovy · Spock · JUnit · Mockito · WireMock · Geb · Cucumber · Selenium/WebDriver
-
-**Tooling:** Jenkins · Docker · Git · Linux · Bash
-
-**Also used:** TypeScript · Vue
-
-## Focus areas
-
-- Backend development with Java and Spring Boot
-- APIs, services, and maintainable system boundaries
-- Automated testing and useful regression feedback
-- CI/CD and development workflows
-- Code quality, clarity, and maintainability
-
-## Principles
-
-- Correctness and clarity over cleverness
-- Tests should make behaviour easier to understand
-- Prefer simple designs that are easy to change
-- Privacy-conscious software by default
+More at [marouan.dk](https://www.marouan.dk/) and on [LinkedIn](https://www.linkedin.com/in/marouan-el-haddad/). Write to hello@marouan.dk.
